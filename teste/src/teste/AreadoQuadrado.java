@@ -12,5 +12,6 @@ public class AreadoQuadrado {
 	public static int area (int lado) {
 		return lado * lado;
 		//comentário lol
+		//mais um com uma bugada lalalala
 	}
 }
